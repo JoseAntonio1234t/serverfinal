@@ -57,3 +57,14 @@
 [06Mar2025 11:42:56.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manolo lost connection: Timed out
 [06Mar2025 11:42:56.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manolo left the game
 [06Mar2025 11:42:56.325] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Mar2025 11:43:53.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Mar2025 11:43:53.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Mar2025 11:43:53.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Mar2025 11:43:53.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Mar2025 11:43:53.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Mar2025 11:43:53.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Mar2025 11:43:53.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Mar2025 11:43:53.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Mar2025 11:43:53.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Mar2025 11:43:53.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Mar2025 11:43:53.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
