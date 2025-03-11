@@ -35,3 +35,7 @@
 [11Mar2025 11:22:44.017] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [11Mar2025 11:29:13.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marx[/127.212.250.231:37409] logged in with entity id 104 at (-273.5, 63.0, -116.5)
 [11Mar2025 11:29:13.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marx joined the game
+[11Mar2025 11:33:40.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-286, y=64, z=-114}
+[11Mar2025 11:36:48.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marx fell from a high place
+[11Mar2025 11:38:01.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marx lost connection: Disconnected
+[11Mar2025 11:38:01.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marx left the game
