@@ -579,3 +579,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Mar2025 11:37:44.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Mar2025 11:38:01.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marx lost connection: Disconnected
 [11Mar2025 11:38:01.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marx left the game
+[11Mar2025 11:42:43.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 11:42:43.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 11:47:43.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 11:47:43.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
